@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shibaayan
-- 👀 I’m interested in learning the most useful and intriguing things even if sometimes it's considered pretty useless in mass.
-- 🌱 I’m currently learning about myself and pretty much on break
-- 💞️ I’m looking to collaborate on ... (just kidding, not handling collaborations and clientwork of any sort as of now) but
+- 👀 I’m interested in learning the most useful and intriguing things, even if sometimes it's considered irrelevant en masse.
+- 🌱 I’m currently learning about some of the latest technologies and in touch with some basic AI-integration terminologies. Loading more...
+- 💞️ Shifting my gears now. 
 - 📫 You may drop me a mail on shibaayanm@gmail.com
 
 <!---
