@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about some of the latest technologies and in touch with some basic AI-integration terminologies. Loading more...
 - 💞️ Shifting my gears now. 
 - 📫 Email me on shibaayanm@gmail.com
-- 👻 Send me an anonymous message on ngl.link/shibaayan1
+- 👻 Send me an anonymous message on https://ngl.link/shibaayan1
 
 <!---
 Shibaayan/Shibaayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
